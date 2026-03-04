@@ -187,4 +187,3 @@ invlogit <- function(x)#用羅吉反函數對係數做出轉換
 }
 invlogit(question3_1$coefficients)
 #最高WS_HR:0.6685519，最低AMB_TEMP:0.2051367
-
